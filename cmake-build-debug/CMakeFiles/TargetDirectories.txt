@@ -1,0 +1,3 @@
+/home/cloud/Programming/C++/helloWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cloud/Programming/C++/helloWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cloud/Programming/C++/helloWorld/cmake-build-debug/CMakeFiles/helloWorld.dir
